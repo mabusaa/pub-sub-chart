@@ -25,4 +25,4 @@ appVersion: "1.16.0"
 dependencies:
 - name: parent-chart
   version: 0.1.0
-  repository: https://github.com/ugurcancaykara/parent-pub-chart/tree/main/parent-chart
+  repository: "@repo-3351674693"
